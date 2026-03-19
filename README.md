@@ -84,7 +84,7 @@ ble-airgap-covert-channel/
 
 ## 📄 Research Paper
 
-👉 View Full Report: https://github.com/Jodan-jd/ble-airgap-covert-channel/blob/main/docs/Project%20-%20report.pdf
+👉 [View Full Report](https://github.com/Jodan-jd/ble-airgap-covert-channel/blob/main/docs/Project%20-%20report.pdf)
 
 
 ---
