@@ -140,6 +140,3 @@ This project reflects my interest in:
 
 ---
 
-## 📫 Connect
-
-* LinkedIn: https://www.linkedin.com/in/ijohndaniel/
